@@ -1,0 +1,12 @@
+E:\..B办公文件\（新）读研期间\b.课程\C计算机网络（4学分）\实践模拟题目（5.8）\程序\A3_客户端（服务器端）\Server_end\bin\Debug\Server_end.exe.config
+E:\..B办公文件\（新）读研期间\b.课程\C计算机网络（4学分）\实践模拟题目（5.8）\程序\A3_客户端（服务器端）\Server_end\bin\Debug\Server_end.exe
+E:\..B办公文件\（新）读研期间\b.课程\C计算机网络（4学分）\实践模拟题目（5.8）\程序\A3_客户端（服务器端）\Server_end\bin\Debug\Server_end.pdb
+E:\..B办公文件\（新）读研期间\b.课程\C计算机网络（4学分）\实践模拟题目（5.8）\程序\A3_客户端（服务器端）\Server_end\obj\Debug\Server_end.csprojAssemblyReference.cache
+E:\..B办公文件\（新）读研期间\b.课程\C计算机网络（4学分）\实践模拟题目（5.8）\程序\A3_客户端（服务器端）\Server_end\obj\Debug\Server_end.Form1.resources
+E:\..B办公文件\（新）读研期间\b.课程\C计算机网络（4学分）\实践模拟题目（5.8）\程序\A3_客户端（服务器端）\Server_end\obj\Debug\Server_end.Form2.resources
+E:\..B办公文件\（新）读研期间\b.课程\C计算机网络（4学分）\实践模拟题目（5.8）\程序\A3_客户端（服务器端）\Server_end\obj\Debug\Server_end.Form3.resources
+E:\..B办公文件\（新）读研期间\b.课程\C计算机网络（4学分）\实践模拟题目（5.8）\程序\A3_客户端（服务器端）\Server_end\obj\Debug\Server_end.Properties.Resources.resources
+E:\..B办公文件\（新）读研期间\b.课程\C计算机网络（4学分）\实践模拟题目（5.8）\程序\A3_客户端（服务器端）\Server_end\obj\Debug\Server_end.csproj.GenerateResource.cache
+E:\..B办公文件\（新）读研期间\b.课程\C计算机网络（4学分）\实践模拟题目（5.8）\程序\A3_客户端（服务器端）\Server_end\obj\Debug\Server_end.csproj.CoreCompileInputs.cache
+E:\..B办公文件\（新）读研期间\b.课程\C计算机网络（4学分）\实践模拟题目（5.8）\程序\A3_客户端（服务器端）\Server_end\obj\Debug\Server_end.exe
+E:\..B办公文件\（新）读研期间\b.课程\C计算机网络（4学分）\实践模拟题目（5.8）\程序\A3_客户端（服务器端）\Server_end\obj\Debug\Server_end.pdb
